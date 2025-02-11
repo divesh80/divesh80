@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <!--
-**divesh8055/divesh8055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**divesh80/divesh80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,21 +22,36 @@ Previously, I engineered data retention and sync services managing millions of d
 
 Beyond my technical pursuits, I am an avid participant in extracurricular activities, representing my college in basketball and securing high placements in both academic and sports competitions. My passion for technology and problem-solving drives my continuous exploration and innovation in Web Development, Artificial Intelligence, and Machine Learning.
 
-Other Github Account: https://github.com/divesh8055
+Other GitHub Account: https://github.com/divesh8055
 
 ## Connect with me :smile:
 
-<a href="https://www.linkedin.com/in/diveshjain8055/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:divesh8055@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/diveshjain8055/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:divesh8055@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=divesh80&show_icons=true&hide_border=true&theme=merko" />
-</a>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=divesh80&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Profile Visit Count
+![Visitor Count](https://profile-counter.glitch.me/{divesh80}/count.svg)
+
+#### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divesh80&layout=compact&theme=radical)
 
 
-<!-- <img align="right" height="185" width="296" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /> -->
+</td>
+<td valign="top" width="50%">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh80&theme=merko" />
-</a>
+#### Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+#### GitHub Stats
+![Divesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divesh80&show_icons=true&theme=radical)
+
+</td>
+</tr>
+</table>
