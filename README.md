@@ -48,10 +48,6 @@ Other GitHub Account: https://github.com/divesh8055
 </td>
 <td valign="top" width="50%">
 
-### 📈 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=divesh80&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
 
 ### 💡 Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
