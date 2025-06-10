@@ -29,28 +29,32 @@ Other GitHub Account: https://github.com/divesh8055
 <a href="https://www.linkedin.com/in/diveshjain8055/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:divesh8055@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+## 📊 GitHub Stats
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=divesh80&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=divesh80&theme=radical" alt="Trophies" />
+</a>
 
-#### Profile Visit Count
-![Visitor Count](https://profile-counter.glitch.me/{divesh80}/count.svg)
-
-#### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divesh80&layout=compact&theme=radical)
-
+### 🚀 Most Used Languages
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh80&layout=compact&theme=radical" alt="Top Languages" />
+</a>
 
 </td>
 <td valign="top" width="50%">
 
-#### Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 📈 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=divesh80&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
 
-#### GitHub Stats
-![Divesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divesh80&show_icons=true&theme=radical)
+### 💡 Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 
 </td>
 </tr>
