@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # I'm Divesh Jain
-I am Divesh Jain, a senior software engineer specializing in the development of advanced data pipelines, fintech systems, and AI-powered applications. Based in Gurugram, India, I lead projects that involve deploying data pipelines handling over 1 million interactions daily, developing AI-powered voice agents for thousands of daily customer interactions, and building scalable backend systems for consumer-facing fintech products.
+A senior software engineer specializing in the development of advanced data pipelines, fintech systems, and AI-powered applications. Based in Gurugram, India, I lead projects that involve deploying data pipelines handling over 1 million interactions daily, developing AI-powered voice agents for thousands of daily customer interactions, and building scalable backend systems for consumer-facing fintech products.
 
 My expertise spans a diverse tech stack, including Node.js, SQS, NestJS, Jest, TypeScript, Postgres, Redis, and distributed system architectures.
 
