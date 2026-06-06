@@ -31,29 +31,16 @@ Other GitHub Account: https://github.com/divesh8055
 <a href="https://www.linkedin.com/in/diveshjain8055/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:divesh8055@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 📊 GitHub Stats
+## 📊 What I Do
 
-<table>
-<tr>
-<td valign="top" width="50%">
+* 💳 Fintech & Consumer Applications
+* 🤖 AI Agents & LLM-Powered Systems
+* 📊 Data Pipelines & Analytics
+* ⚡ Scalable Backend Engineering
+* ☁️ Distributed Systems
 
-### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=divesh80&theme=radical" alt="Trophies" />
-</a>
+## 🛠️ Tech Stack
 
-### 🚀 Most Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesh80&layout=compact&theme=radical" alt="Top Languages" />
-</a>
+`Node.js` `TypeScript` `NestJS` `PostgreSQL` `Redis` `Kafka`
+`SQS` `Elasticsearch` `Jest` `Docker` `AWS`
 
-</td>
-<td valign="top" width="50%">
-
-
-### 💡 Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-
-</td>
-</tr>
-</table>
