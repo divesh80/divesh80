@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # I'm Divesh Jain
-I am Divesh Jain, a software engineer specializing in the development of advanced data pipelines and AI-powered applications. Based in Gurugram, India, I lead projects that involve deploying data pipelines handling over 200K interactions monthly and developing AI-powered voice agents for thousands of daily customer interactions. My expertise spans a diverse tech stack, including Node.js, SQS, NestJS, Jest, TypeScript, Postgres, and Redis.
+I am Divesh Jain, a senior software engineer specializing in the development of advanced data pipelines, fintech systems, and AI-powered applications. Based in Gurugram, India, I lead projects that involve deploying data pipelines handling over 1 million interactions daily, developing AI-powered voice agents for thousands of daily customer interactions, and building scalable backend systems for consumer-facing fintech products.
+
+My expertise spans a diverse tech stack, including Node.js, SQS, NestJS, Jest, TypeScript, Postgres, Redis, and distributed system architectures.
 
 Previously, I engineered data retention and sync services managing millions of documents and significantly enhanced database scalability by implementing sharding, boosting operational efficiency and regulatory compliance. I hold a dual degree (B.Tech and M.Tech) from the Indian Institute of Technology, Bhubaneswar, where I graduated with high distinction.
 
-Beyond my technical pursuits, I am an avid participant in extracurricular activities, representing my college in basketball and securing high placements in both academic and sports competitions. My passion for technology and problem-solving drives my continuous exploration and innovation in Web Development, Artificial Intelligence, and Machine Learning.
+Beyond my technical pursuits, I am an avid participant in extracurricular activities, representing my college in basketball and securing high placements in both academic and sports competitions. My passion for technology and problem-solving drives my continuous exploration and innovation in Web Development, Fintech, Artificial Intelligence, and Machine Learning.
 
 Other GitHub Account: https://github.com/divesh8055
 
